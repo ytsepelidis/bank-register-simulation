@@ -1,0 +1,25 @@
+Percentage of time of occupied registers:
+Register n. 1: 0.17
+Register n. 2: 0.19
+Register n. 3: 0.22
+Register n. 4: 0.14
+Register n. 5: 0.09
+Register n. 6: 0.2
+
+Clients serviced for each register:
+Register n. 1: 7
+Register n. 2: 7
+Register n. 3: 6
+Register n. 4: 6
+Register n. 5: 6
+Register n. 6: 6
+
+Average queue length for each register:
+Register n. 1: 16.2381
+
+Maximum queue length for each register:
+Register n. 1: 32
+
+Average queue waiting time for each register:
+Register n. 1: 2.65789
+
